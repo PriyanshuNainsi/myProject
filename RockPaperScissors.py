@@ -12,7 +12,7 @@ elif(a=='Scissors' and c=='Rock'):
 elif(a=='Paper' and c=='Rock'):
     print("You Won")
 elif(a=='Rock' and c=='Paper'):
-    print("YOu won ")
+    print("You won ")
 
-else:print("computer won")
+else:print("Computer won")
 
